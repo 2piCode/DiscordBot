@@ -1,1 +1,1 @@
-# DiscordBot
+# Discor Music dBot
